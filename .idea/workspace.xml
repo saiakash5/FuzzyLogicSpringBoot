@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a18b277-1238-460d-af6f-761fd37a6e43" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/DerbyControllerImplementation/Cran.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/DerbyControllerImplementation/CranController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/DerbyControllerImplementation/CranRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootstarter/DerbyControllerImplementation/CranService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/CourseApiApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/CourseApiApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/FuzzyRetreival/FuzzyRetrievalController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/FuzzyRetreival/FuzzyRetrievalController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/RetreivalServicePackasge/ExtendedDoubleEvaluator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/RetreivalServicePackasge/RetrievalService$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/RetreivalServicePackasge/RetrievalService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/RetreivalServicePackasge/Stemmer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/javabrains/springbootstarter/RetreivalServicePackasge/input_res/cran.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="7a18b277-1238-460d-af6f-761fd37a6e43" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -413,6 +399,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="10" />
