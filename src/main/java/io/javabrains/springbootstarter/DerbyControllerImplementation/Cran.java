@@ -1,8 +1,10 @@
 package io.javabrains.springbootstarter.DerbyControllerImplementation;
 
 
+import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.persistence.Lob;
 
 @Entity
 public class Cran {
@@ -10,7 +12,8 @@ public class Cran {
     @Id
     private String id;
 
-
+    @Column(columnDefinition="clob")
+    @Lob
     private String content;
 
     public Cran(){

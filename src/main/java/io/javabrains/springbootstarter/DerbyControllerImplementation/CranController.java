@@ -3,6 +3,7 @@ package io.javabrains.springbootstarter.DerbyControllerImplementation;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
+import java.io.IOException;
 import java.util.List;
 
 @RestController
@@ -29,5 +30,10 @@ public class CranController {
     @RequestMapping(method = RequestMethod.PUT, value = "/cran_doc/{id}")
     public void addDocById(@RequestBody Cran cran, @PathVariable String id){
         cran_obj.updateTopic(id,cran);
+    }
+
+    @RequestMapping("addCran")
+    public void addFromCran() throws IOException {
+        cran_obj.addAll();
     }
 }
